@@ -1,0 +1,18 @@
+UCC Software Engineering Project 19/20
+Adrian Denis Coffey, Nicolas Salat-Cortez, William Ohr, Michael Smith
+
+Developing a Calculator consisting of the following 4 programs:
+1. Tokenizer
+2. Infix-to-Postfix Translator
+3. Code Generator
+4. Virtual Machine
+
+To be written in C language. 
+Developed on Linux Platform
+Using GitHub
+
+Deliverables:
+-Source Code
+-Project documentation (including Requirements)
+-Test Suite
+
